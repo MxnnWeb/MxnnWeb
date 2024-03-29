@@ -15,10 +15,7 @@
 </p>
 
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Open+Source+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
-</p>
+
 
 
 ## Technologies & Tools
