@@ -2,12 +2,14 @@
 <img width="1600" alt="Cover (6)" src="https://github.com/MxnnWeb/banner/assets/162928236/bd665bb4-fc24-475c-901e-0be091addfd3">
 </p>
 
+
+
 <!-- Welcome Message -->
 <h1 align="center">MxnnWeb </h1>
 
 <!-- Introduction -->
 <p align="center">
-  I'm a passionate full-stack developer who loves to explore new technologies and build amazing things. I believe in writing code that not only works but is also clean, scalable, and maintainable.
+ Hey there, I'm MxnnWeb, a full-stack developer specializing in crafting unique websites, applications, and tools. Whether it's bringing websites to life with 3D design or developing innovative features for your apps, I'm here to turn your ideas into reality. Let's break free from generic templates and create something extraordinary together.
 </p>
 
 
