@@ -3,7 +3,7 @@
 </p>
 
 <!-- Welcome Message -->
-<h1 align="center">Hi there, I'm MxnnWeb </h1>
+<h1 align="center">MxnnWeb </h1>
 
 <!-- Introduction -->
 <p align="center">
