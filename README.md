@@ -1,9 +1,9 @@
 <p align="center">
-<img width="1600" alt="Cover (6)" src="https://github.com/MxnnWeb/banner/assets/162928236/d2a82407-8509-4aef-954e-42cc9758f3cd">
+<img width="1600" alt="Cover (6)" src="https://github.com/MxnnWeb/banner/assets/162928236/bd665bb4-fc24-475c-901e-0be091addfd3">
 </p>
 
 <!-- Welcome Message -->
-<h1 align="center">Hi there, I'm MxnnWeb 👋</h1>
+<h1 align="center">Hi there, I'm MxnnWeb </h1>
 
 <!-- Introduction -->
 <p align="center">
