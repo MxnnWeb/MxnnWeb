@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1600" alt="Cover (6)" src="https://github.com/MxnnWeb/banner/assets/162928236/bd665bb4-fc24-475c-901e-0be091addfd3">
+<img width="1600" alt="Cover (6)" src="https://github.com/MxnnWeb/banner/assets/162928236/61bda4dc-8aca-4fd5-bded-1084409e71da">
 </p>
 
 <br>
